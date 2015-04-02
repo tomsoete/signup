@@ -1,4 +1,4 @@
-package demo;
+package be.lavait.samples.signup;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

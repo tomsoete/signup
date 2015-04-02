@@ -1,4 +1,4 @@
-package demo;
+package be.lavait.samples.signup;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
